@@ -58,7 +58,7 @@ label {
 .form button:hover,
 .form button:active,
 .form button:focus {
-  background: #ff8a7b;
+  background: #1C9985;
 }
 .form .message {
   margin: 15px 0 0;
@@ -85,7 +85,7 @@ label {
   text-align: center;
 }
 .container .info h1 {
-  margin-bottom: 16px;
+  margin-bottom: 24px;
   padding: 0;
   font-size: 30px;
   font-weight: 400;
